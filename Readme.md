@@ -13,7 +13,7 @@ Este projeto utiliza o Raspberry Pi Pico W para gerar sons usando um buzzer piez
 
 Veja o vídeo de demonstração do funcionamento do projeto:
 
-[Assista ao vídeo de demonstração]([URL_DO_SEU_VIDEO](https://drive.google.com/file/d/1Gdhz9KTUOZOjS2CGxOHW8Xjpa__dr20i/view?usp=share_link))
+[Assista ao vídeo de demonstração](https://drive.google.com/file/d/1Gdhz9KTUOZOjS2CGxOHW8Xjpa__dr20i/view?usp=share_link)
 
 
 ## Componentes Utilizados
